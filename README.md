@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hi, I'm Mohith R  
-### AI / ML • Full-Stack • Systems & Intelligent Applications
+### AI / ML • Full-Stack • Intelligent & Systems Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=600&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Systems;Full-Stack+Engineering+%7C+Cloud+%7C+DevOps;Building+Practical%2C+Real-World+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=600&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Systems;Full-Stack+Engineering+%7C+Spring+Boot+%7C+Cloud;Building+Practical%2C+Real-World+Solutions" />
 
 </div>
 
@@ -33,6 +33,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙ Backend, Cloud & DevOps
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -60,20 +61,20 @@
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mohith-r17&theme=tokyonight&hide_border=false)
-![](https://streak-stats.demolab.com/?user=mohith-r17&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith-r17&theme=tokyonight&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mohith-R17&theme=tokyonight&show_icons=true)
+![](https://streak-stats.demolab.com/?user=Mohith-R17&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-R17&theme=tokyonight&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohith-r17&theme=tokyonight&no-frame=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mohith-R17&theme=tokyonight&margin-w=6)
 
 ---
 
 ### 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=mohith-r17&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mohith-R17&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
 
 
